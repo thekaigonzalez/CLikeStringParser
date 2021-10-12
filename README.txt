@@ -1,0 +1,1 @@
+C Style string parser.
